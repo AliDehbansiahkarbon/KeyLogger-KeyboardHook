@@ -1,3 +1,5 @@
+This is not a real key logger, it's a keyboard hook sample in Delphi.
+
 <hr>
 <p align="center">
 <img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2022/11/dlogonew-5582740.png?resize=254%2C242&ssl=1" alt="Delphi">
